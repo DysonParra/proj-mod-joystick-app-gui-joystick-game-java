@@ -20,10 +20,11 @@ import lombok.Data;
 /**
  * TODO: Definición de {@code GenericJoystickComponentActionSetter}.
  *
- * @author Dyson Parra
- * @since 1.8
  * @param <T> es el tipo de componente de la ventana (JFrame o activity)
  * @param <C> es el tipo de componente gráfico que se manipulará.
+ *
+ * @author Dyson Parra
+ * @since 1.8
  */
 //@AllArgsConstructor
 //@Builder
