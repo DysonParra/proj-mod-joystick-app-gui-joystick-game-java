@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GraphicGetter} se encarga de realizar tareas específicas.
+ * @fileoverview    {GraphicGetter}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GameFrame} se encarga de realizar tareas específicas.
+ * @fileoverview    {GameFrame}
  *
  * @version         2.0
  *

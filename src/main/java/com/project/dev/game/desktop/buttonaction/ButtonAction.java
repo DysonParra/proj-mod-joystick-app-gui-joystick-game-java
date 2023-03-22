@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ButtonAction} se encarga de realizar tareas específicas.
+ * @fileoverview    {ButtonAction}
  *
  * @version         2.0
  *

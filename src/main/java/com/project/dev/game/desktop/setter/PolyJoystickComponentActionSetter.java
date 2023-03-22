@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PolyJoystickComponentActionSetter} se encarga de realizar tareas específicas.
+ * @fileoverview    {PolyJoystickComponentActionSetter}
  *
  * @version         2.0
  *

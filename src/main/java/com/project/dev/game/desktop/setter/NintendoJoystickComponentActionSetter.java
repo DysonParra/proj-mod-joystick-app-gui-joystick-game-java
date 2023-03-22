@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {NintendoJoystickComponentActionSetter} se encarga de realizar tareas específicas.
+ * @fileoverview    {NintendoJoystickComponentActionSetter}
  *
  * @version         2.0
  *

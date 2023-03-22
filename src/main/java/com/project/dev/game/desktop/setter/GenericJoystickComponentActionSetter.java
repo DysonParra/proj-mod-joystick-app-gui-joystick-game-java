@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericJoystickComponentActionSetter} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericJoystickComponentActionSetter}
  *
  * @version         2.0
  *

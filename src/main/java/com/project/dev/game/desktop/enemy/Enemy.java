@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Enemy} se encarga de realizar tareas específicas.
+ * @fileoverview    {Enemy}
  *
  * @version         2.0
  *
