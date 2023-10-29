@@ -18,7 +18,7 @@ import java.awt.Image;
 import javax.swing.ImageIcon;
 
 /**
- * TODO: Definición de {@code GraphicGetter}.
+ * TODO: Description of {@code GraphicGetter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -28,7 +28,7 @@ public class GraphicGetter {
     private static final String RES_ROOT_PATH = "/assets/com/project/dev/game/";
 
     /**
-     * FIXME: Definición de {@code getGraphic}. Obtiene un ImageIcon desde los recursos de la app.
+     * FIXME: Description of {@code getGraphic}. Obtiene un ImageIcon desde los recursos de la app.
      *
      * @param fileName es el nombre de la imagen.
      * @return un ImageIcon obtenido desde el archivo indicado.
@@ -38,7 +38,7 @@ public class GraphicGetter {
     }
 
     /**
-     * FIXME: Definición de {@code getGraphic}. Obtiene un ImageIcon desde los recursos de la app.
+     * FIXME: Description of {@code getGraphic}. Obtiene un ImageIcon desde los recursos de la app.
      *
      * @param fileName       es el nombre de la imagen.
      * @param windowWidth    es el ancho máximo de la ventana donde se moverá el componente gráfico.

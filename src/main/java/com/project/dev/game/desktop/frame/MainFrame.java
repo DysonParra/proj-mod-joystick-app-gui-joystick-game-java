@@ -24,7 +24,7 @@ import javax.swing.JTextField;
 import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYPE_SERVER;
 
 /**
- * TODO: Definición de {@code MainFrame}.
+ * TODO: Description of {@code MainFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -45,7 +45,7 @@ public class MainFrame extends JFrame {
     };
 
     /**
-     * TODO: Definición de {@code MainFrame}.
+     * TODO: Description of {@code MainFrame}.
      *
      */
     public MainFrame() {
@@ -123,7 +123,7 @@ public class MainFrame extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * TODO: Definición de {@code btnCreateActionPerformed}.
+     * TODO: Description of {@code btnCreateActionPerformed}.
      *
      * @param evt
      */
@@ -142,7 +142,7 @@ public class MainFrame extends JFrame {
     }//GEN-LAST:event_btnCreateActionPerformed
 
     /**
-     * TODO: Definición de {@code spnJoystickNameActionPerformed}.
+     * TODO: Description of {@code spnJoystickNameActionPerformed}.
      *
      * @param evt
      */

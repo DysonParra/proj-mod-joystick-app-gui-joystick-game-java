@@ -22,7 +22,7 @@ import com.project.dev.joystick.name.nintendo.NintendoJoystick;
 import javax.swing.JLabel;
 
 /**
- * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
+ * TODO: Description of {@code NintendoJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -30,7 +30,7 @@ import javax.swing.JLabel;
 public class NintendoJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<GameFrame, JLabel> {
 
     /**
-     * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
+     * TODO: Description of {@code NintendoJoystickComponentActionSetter}.
      *
      * @param component      es un componente gráfico que será controlado por el joystick
      * @param window         es el JFrame al que pertenece el componnete gráfico.
@@ -44,7 +44,7 @@ public class NintendoJoystickComponentActionSetter extends GenericJoystickCompon
     }
 
     /**
-     * FIXME: Definición de {@code setButtonActions}. Asigna acciones a un joystick.
+     * FIXME: Description of {@code setButtonActions}. Asigna acciones a un joystick.
      *
      * @param joystick es el joystick que controlará el componente.
      * @throws java.lang.Exception si no es posible asignar acciones al joystick indicado.

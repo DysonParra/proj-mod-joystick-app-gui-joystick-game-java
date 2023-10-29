@@ -20,7 +20,7 @@ import javax.swing.JLabel;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code Enemy}.
+ * TODO: Description of {@code Enemy}.
  *
  * @author Dyson Parra
  * @since 11
@@ -42,7 +42,7 @@ public class Enemy {
     private int enemyQuantity = 0;                                              // Cantiadd de enemigos que caben en lo alto de la ventana.
 
     /**
-     * TODO: Definición de {@code Enemy}.
+     * TODO: Description of {@code Enemy}.
      *
      * @param window        Ventana donde se agregará el enemigo.
      * @param windowWidth   Máximo de la ventana donde se moverá el enemigo.
@@ -64,7 +64,7 @@ public class Enemy {
     }
 
     /**
-     * TODO: Definición de {@code Enemy}.
+     * TODO: Description of {@code Enemy}.
      *
      * @param window        Ventana donde se agregará el enemigo.
      * @param windowWidth   Máximo de la ventana donde se moverá el enemigo.
@@ -79,7 +79,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Definición de {@code moveLeft}. Mueve el enemigo a la izquierda.
+     * FIXME: Description of {@code moveLeft}. Mueve el enemigo a la izquierda.
      *
      * @return si se pudo mover el enemigo a la izquierda.
      */
@@ -94,7 +94,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Definición de {@code restorePositionX}. Mueve el enemigo a la posición inicial en X.
+     * FIXME: Description of {@code restorePositionX}. Mueve el enemigo a la posición inicial en X.
      */
     public void restorePositionX() {
         this.PositionX = windowWidth - viewWidth;
@@ -102,7 +102,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Definición de {@code updateIcon}. Actualiza la imagen del enemigo por una cualquiera.
+     * FIXME: Description of {@code updateIcon}. Actualiza la imagen del enemigo por una cualquiera.
      */
     public void updateIcon() {
         int imageIndex = (int) (Math.random() * ENEMY_IMAGE_QUANTITY) + 1;
