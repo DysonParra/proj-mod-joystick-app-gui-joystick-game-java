@@ -25,7 +25,7 @@ import javax.swing.JLabel;
  * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class NintendoJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<GameFrame, JLabel> {
 

@@ -24,7 +24,7 @@ import lombok.Data;
  * @param <C> es el tipo de componente gráfico que se manipulará.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 //@AllArgsConstructor
 //@Builder

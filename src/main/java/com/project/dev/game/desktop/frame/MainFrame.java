@@ -27,7 +27,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
  * TODO: Definición de {@code MainFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class MainFrame extends JFrame {
 

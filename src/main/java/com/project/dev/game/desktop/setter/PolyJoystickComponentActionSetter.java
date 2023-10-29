@@ -25,7 +25,7 @@ import javax.swing.JLabel;
  * TODO: Definición de {@code PolyJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class PolyJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<GameFrame, JLabel> {
 

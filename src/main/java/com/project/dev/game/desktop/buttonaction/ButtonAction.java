@@ -30,7 +30,7 @@ import static com.project.dev.joystick.GenericComponent.BUTTON_UNPRESSED;
  * TODO: Definición de {@code ButtonAction}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class ButtonAction {
 

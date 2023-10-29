@@ -51,7 +51,7 @@ import javax.swing.SwingConstants;
  * TODO: Definición de {@code GameFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class GameFrame extends JFrame {
 

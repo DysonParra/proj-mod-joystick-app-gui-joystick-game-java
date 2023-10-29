@@ -21,7 +21,7 @@ import javax.swing.ImageIcon;
  * TODO: Definición de {@code GraphicGetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class GraphicGetter {
 
