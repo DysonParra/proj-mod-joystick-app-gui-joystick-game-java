@@ -51,7 +51,7 @@ import javax.swing.SwingConstants;
  * TODO: Description of {@code GameFrame}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class GameFrame extends JFrame {
 

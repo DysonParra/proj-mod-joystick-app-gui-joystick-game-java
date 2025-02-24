@@ -30,7 +30,7 @@ import static com.project.dev.joystick.GenericComponent.BUTTON_UNPRESSED;
  * TODO: Description of {@code ButtonAction}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class ButtonAction {
 
