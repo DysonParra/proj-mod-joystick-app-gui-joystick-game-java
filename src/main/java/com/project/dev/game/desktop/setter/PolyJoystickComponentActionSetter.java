@@ -30,7 +30,7 @@ import javax.swing.JLabel;
 public class PolyJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<GameFrame, JLabel> {
 
     /**
-     * TODO: Description of {@code PolyJoystickComponentActionSetter}.
+     * TODO: Description of method {@code PolyJoystickComponentActionSetter}.
      *
      * @param component      es un componente gráfico que será controlado por el joystick.
      * @param window         es el JFrame al que pertenece el componnete gráfico.
@@ -44,7 +44,7 @@ public class PolyJoystickComponentActionSetter extends GenericJoystickComponentA
     }
 
     /**
-     * FIXME: Description of {@code setButtonActions}. Asigna acciones a un joystick.
+     * FIXME: Description of method {@code setButtonActions}. Asigna acciones a un joystick.
      *
      * @param joystick es el joystick que controlará el componente.
      * @throws java.lang.Exception si no es posible asignar acciones al joystick indicado.

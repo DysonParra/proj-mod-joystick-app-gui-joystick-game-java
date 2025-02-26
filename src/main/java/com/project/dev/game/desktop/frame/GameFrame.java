@@ -92,7 +92,7 @@ public class GameFrame extends JFrame {
     private String output;                                                              // Crea String.
 
     /**
-     * TODO: Description of {@code getJoystickType}.
+     * TODO: Description of method {@code getJoystickType}.
      *
      * @return
      */
@@ -101,7 +101,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setJoystickType}.
+     * TODO: Description of method {@code setJoystickType}.
      *
      * @param joystickType
      */
@@ -110,7 +110,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code getJoystickName}.
+     * TODO: Description of method {@code getJoystickName}.
      *
      * @return
      */
@@ -119,7 +119,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setJoystickName}.
+     * TODO: Description of method {@code setJoystickName}.
      *
      * @param joystickName
      */
@@ -128,7 +128,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code getViewScore}.
+     * TODO: Description of method {@code getViewScore}.
      *
      * @return
      */
@@ -137,7 +137,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setViewScore}.
+     * TODO: Description of method {@code setViewScore}.
      *
      * @param viewScore
      */
@@ -146,7 +146,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code getViewMaxScore}.
+     * TODO: Description of method {@code getViewMaxScore}.
      *
      * @return
      */
@@ -155,7 +155,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setViewMaxScore}.
+     * TODO: Description of method {@code setViewMaxScore}.
      *
      * @param viewMaxScore
      */
@@ -164,7 +164,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code getViewBackground}.
+     * TODO: Description of method {@code getViewBackground}.
      *
      * @return
      */
@@ -173,7 +173,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setViewBackground}.
+     * TODO: Description of method {@code setViewBackground}.
      *
      * @param viewBackground
      */
@@ -182,7 +182,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code getEnemiesSleepTime}.
+     * TODO: Description of method {@code getEnemiesSleepTime}.
      *
      * @return
      */
@@ -191,7 +191,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setEnemiesSleepTime}.
+     * TODO: Description of method {@code setEnemiesSleepTime}.
      *
      * @param enemiesSleepTime
      */
@@ -201,7 +201,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code isManualEnemiesSpeed}.
+     * TODO: Description of method {@code isManualEnemiesSpeed}.
      *
      * @return
      */
@@ -210,7 +210,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setManualEnemiesSpeed}.
+     * TODO: Description of method {@code setManualEnemiesSpeed}.
      *
      * @param manualEnemiesSpeed
      */
@@ -220,7 +220,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code isPaused}.
+     * TODO: Description of method {@code isPaused}.
      *
      * @return
      */
@@ -229,7 +229,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setPaused}.
+     * TODO: Description of method {@code setPaused}.
      *
      * @param paused
      */
@@ -246,7 +246,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code isLosed}.
+     * TODO: Description of method {@code isLosed}.
      *
      * @return
      */
@@ -255,7 +255,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code setLosed}.
+     * TODO: Description of method {@code setLosed}.
      *
      * @param losed
      */
@@ -270,7 +270,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code restartGame}.
+     * TODO: Description of method {@code restartGame}.
      *
      */
     public void restartGame() {
@@ -284,7 +284,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code pressStartButton}.
+     * TODO: Description of method {@code pressStartButton}.
      *
      */
     public void pressStartButton() {
@@ -295,7 +295,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * TODO: Description of {@code GameFrame}.
+     * TODO: Description of method {@code GameFrame}.
      *
      */
     public GameFrame() {
@@ -333,7 +333,7 @@ public class GameFrame extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * FIXME: Description of {@code startFrame}. Inicializa el frame con la información obtenida del
+     * FIXME: Description of method {@code startFrame}. Inicializa el frame con la información obtenida del
      * frame anterior.
      *
      */
@@ -476,7 +476,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code setVisibleEnemies}. Escoge cuales enemigos estarán visibles.
+     * FIXME: Description of method {@code setVisibleEnemies}. Escoge cuales enemigos estarán visibles.
      *
      */
     public void setVisibleEnemies() {
@@ -502,7 +502,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code restoreEnemies}. Reinicia las posiciones de los enemigos al
+     * FIXME: Description of method {@code restoreEnemies}. Reinicia las posiciones de los enemigos al
      * iniciar el juego.
      *
      */
@@ -515,7 +515,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code hitEnemy}. ´Verifica si un enemigo específico chocó con el
+     * FIXME: Description of method {@code hitEnemy}. ´Verifica si un enemigo específico chocó con el
      * jugador.
      *
      * @param player es el jugador.
@@ -563,7 +563,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code hitEnemy}. Verifica si algún enemigo chocó con el jugador.
+     * FIXME: Description of method {@code hitEnemy}. Verifica si algún enemigo chocó con el jugador.
      *
      * @param player  es el jugador.
      * @param enemies son los enemigos.
@@ -578,7 +578,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code setDefautEnemiesSleepTime}. Asigna la velocidad por defecto a los
+     * FIXME: Description of method {@code setDefautEnemiesSleepTime}. Asigna la velocidad por defecto a los
      * enemigos.
      *
      */
@@ -598,7 +598,7 @@ public class GameFrame extends JFrame {
     }
 
     /**
-     * FIXME: Description of {@code startGame}. Inicia el juego.
+     * FIXME: Description of method {@code startGame}. Inicia el juego.
      *
      */
     public void startGame() {

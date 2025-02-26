@@ -45,7 +45,7 @@ public class MainFrame extends JFrame {
     };
 
     /**
-     * TODO: Description of {@code MainFrame}.
+     * TODO: Description of method {@code MainFrame}.
      *
      */
     public MainFrame() {
@@ -123,7 +123,7 @@ public class MainFrame extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * TODO: Description of {@code btnCreateActionPerformed}.
+     * TODO: Description of method {@code btnCreateActionPerformed}.
      *
      * @param evt
      */
@@ -142,7 +142,7 @@ public class MainFrame extends JFrame {
     }//GEN-LAST:event_btnCreateActionPerformed
 
     /**
-     * TODO: Description of {@code spnJoystickNameActionPerformed}.
+     * TODO: Description of method {@code spnJoystickNameActionPerformed}.
      *
      * @param evt
      */

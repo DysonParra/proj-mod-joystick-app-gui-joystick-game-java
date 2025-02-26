@@ -39,7 +39,7 @@ public abstract class GenericJoystickComponentActionSetter<T, C> {
     protected int windowDivision = 0;                                           // Cuantas imagenes caben a lo alto de la ventana.
 
     /**
-     * TODO: Description of {@code GenericJoystickComponentActionSetter}.
+     * TODO: Description of method {@code GenericJoystickComponentActionSetter}.
      *
      * @param component      es un componente que será controlado por el joystick
      * @param window         es el tipo de componente de la ventana (JFrame o activity).
@@ -57,7 +57,7 @@ public abstract class GenericJoystickComponentActionSetter<T, C> {
     }
 
     /**
-     * FIXME: Description of {@code setButtonActions}. Asigna acciones a un joystick.
+     * FIXME: Description of method {@code setButtonActions}. Asigna acciones a un joystick.
      *
      * @param joystick esl el joystick que controlará el componente gráfico.
      * @throws java.lang.Exception si no es posible asignar acciones al joystick indicado.

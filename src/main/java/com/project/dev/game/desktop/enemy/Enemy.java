@@ -42,7 +42,7 @@ public class Enemy {
     private int enemyQuantity = 0;                                              // Cantiadd de enemigos que caben en lo alto de la ventana.
 
     /**
-     * TODO: Description of {@code Enemy}.
+     * TODO: Description of method {@code Enemy}.
      *
      * @param window        Ventana donde se agregará el enemigo.
      * @param windowWidth   Máximo de la ventana donde se moverá el enemigo.
@@ -64,7 +64,7 @@ public class Enemy {
     }
 
     /**
-     * TODO: Description of {@code Enemy}.
+     * TODO: Description of method {@code Enemy}.
      *
      * @param window        Ventana donde se agregará el enemigo.
      * @param windowWidth   Máximo de la ventana donde se moverá el enemigo.
@@ -79,7 +79,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Description of {@code moveLeft}. Mueve el enemigo a la izquierda.
+     * FIXME: Description of method {@code moveLeft}. Mueve el enemigo a la izquierda.
      *
      * @return si se pudo mover el enemigo a la izquierda.
      */
@@ -94,7 +94,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Description of {@code restorePositionX}. Mueve el enemigo a la posición inicial en X.
+     * FIXME: Description of method {@code restorePositionX}. Mueve el enemigo a la posición inicial en X.
      *
      */
     public void restorePositionX() {
@@ -103,7 +103,7 @@ public class Enemy {
     }
 
     /**
-     * FIXME: Description of {@code updateIcon}. Actualiza la imagen del enemigo por una cualquiera.
+     * FIXME: Description of method {@code updateIcon}. Actualiza la imagen del enemigo por una cualquiera.
      *
      */
     public void updateIcon() {
