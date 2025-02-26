@@ -95,6 +95,7 @@ public class Enemy {
 
     /**
      * FIXME: Description of {@code restorePositionX}. Mueve el enemigo a la posición inicial en X.
+     *
      */
     public void restorePositionX() {
         this.PositionX = windowWidth - viewWidth;
@@ -103,6 +104,7 @@ public class Enemy {
 
     /**
      * FIXME: Description of {@code updateIcon}. Actualiza la imagen del enemigo por una cualquiera.
+     *
      */
     public void updateIcon() {
         int imageIndex = (int) (Math.random() * ENEMY_IMAGE_QUANTITY) + 1;

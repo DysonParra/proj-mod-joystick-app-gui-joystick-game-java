@@ -335,6 +335,7 @@ public class GameFrame extends JFrame {
     /**
      * FIXME: Description of {@code startFrame}. Inicializa el frame con la información obtenida del
      * frame anterior.
+     *
      */
     public void startFrame() {
         try {
@@ -476,6 +477,7 @@ public class GameFrame extends JFrame {
 
     /**
      * FIXME: Description of {@code setVisibleEnemies}. Escoge cuales enemigos estarán visibles.
+     *
      */
     public void setVisibleEnemies() {
         visibleEnemies = 0;
@@ -502,6 +504,7 @@ public class GameFrame extends JFrame {
     /**
      * FIXME: Description of {@code restoreEnemies}. Reinicia las posiciones de los enemigos al
      * iniciar el juego.
+     *
      */
     public void restoreEnemies() {
         setVisibleEnemies();
@@ -577,6 +580,7 @@ public class GameFrame extends JFrame {
     /**
      * FIXME: Description of {@code setDefautEnemiesSleepTime}. Asigna la velocidad por defecto a los
      * enemigos.
+     *
      */
     public void setDefautEnemiesSleepTime() {
         // Si la velocidad en que se mueven los enemigos no se especificó desde el joystick.
@@ -595,6 +599,7 @@ public class GameFrame extends JFrame {
 
     /**
      * FIXME: Description of {@code startGame}. Inicia el juego.
+     *
      */
     public void startGame() {
         try {
