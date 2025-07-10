@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GameFrame}
+ * @overview        {GameFrame}
  *
  * @version         2.0
  *
@@ -661,7 +661,7 @@ public class GameFrame extends JFrame {
     /**
      * Entrada principal del sistema.
      *
-     * @param args argumentos de la linea de comandos.
+     * @param args argumentos pasados por consola.
      */
     public static void main(String args[]) {
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">

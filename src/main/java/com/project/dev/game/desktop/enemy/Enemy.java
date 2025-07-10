@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Enemy}
+ * @overview        {Enemy}
  *
  * @version         2.0
  *

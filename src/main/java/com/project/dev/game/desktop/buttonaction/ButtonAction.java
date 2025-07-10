@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ButtonAction}
+ * @overview        {ButtonAction}
  *
  * @version         2.0
  *

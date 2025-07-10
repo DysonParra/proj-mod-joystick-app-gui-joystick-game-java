@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GraphicGetter}
+ * @overview        {GraphicGetter}
  *
  * @version         2.0
  *

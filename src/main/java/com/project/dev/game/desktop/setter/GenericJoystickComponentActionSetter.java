@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericJoystickComponentActionSetter}
+ * @overview        {GenericJoystickComponentActionSetter}
  *
  * @version         2.0
  *

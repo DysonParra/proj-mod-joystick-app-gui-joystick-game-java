@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PolyJoystickComponentActionSetter}
+ * @overview        {PolyJoystickComponentActionSetter}
  *
  * @version         2.0
  *
